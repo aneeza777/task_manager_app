@@ -1,0 +1,21 @@
+# Flutter
+.build/
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android
+android/.gradle/
+android/app/build/
+
+# iOS
+ios/Pods/
+ios/Runner.xcworkspace/
+
+# IDE
+.idea/
+.vscode/
+
+# Firebase (do not upload keys)
+firebase_options.dart
